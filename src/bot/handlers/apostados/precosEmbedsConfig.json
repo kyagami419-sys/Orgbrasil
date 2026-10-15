@@ -1,0 +1,274 @@
+{
+    "categorias": {
+        "mobile": {
+            "1x1": { 
+                "titulo_base": "1X1 MOBILE", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "Gelo Normal", "sub_regra": "gelo_normal", "emoji": "🧊" },
+                    { "label": "Gelo Infinito", "sub_regra": "gelo_infinito", "emoji": "🧊" }
+                ]
+            },
+            "2x2": { 
+                "titulo_base": "2X2 MOBILE", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "Normal", "sub_regra": "normal", "emoji": "✅" },
+                    { "label": "Full Ump Xm8", "sub_regra": "full_ump_xm8", "emoji": "🔫" }
+                ]
+            },
+            "3x3": { 
+                "titulo_base": "3X3 MOBILE", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "Normal", "sub_regra": "normal", "emoji": "✅" },
+                    { "label": "Full Ump Xm8", "sub_regra": "full_ump_xm8", "emoji": "🔫" }
+                ]
+            },
+            "4x4": { 
+                "titulo_base": "4X4 MOBILE", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "Normal", "sub_regra": "normal", "emoji": "✅" },
+                    { "label": "Full Ump Xm8", "sub_regra": "full_ump_xm8", "emoji": "🔫" }
+                ]
+            },
+            "5x5": { 
+                "titulo_base": "5X5 MOBILE", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "Normal", "sub_regra": "normal", "emoji": "✅" },
+                    { "label": "Full Ump Xm8", "sub_regra": "full_ump_xm8", "emoji": "🔫" }
+                ]
+            },
+            "6x6": { 
+                "titulo_base": "6X6 MOBILE", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "Normal", "sub_regra": "normal", "emoji": "✅" },
+                    { "label": "Full Ump Xm8", "sub_regra": "full_ump_xm8", "emoji": "🔫" }
+                ]
+            }
+            
+        },
+        "misto": {
+            "2x2": { 
+                "titulo_base": "2X2 Misto", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "1 Emu", "sub_regra": "1 Emu", "emoji": "💻" }
+                ]
+            },
+            "3x3": { 
+                "titulo_base": "3X3 Misto", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "1 Emu", "sub_regra": "1 Emu", "emoji": "💻" },
+                    { "label": "2 Emu", "sub_regra": "2 Emu", "emoji": "💻" }
+                ]
+            },
+            "4x4": { 
+                "titulo_base": "4X4 Misto", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "1 Emu", "sub_regra": "1 Emu", "emoji": "💻" },
+                    { "label": "2 Emu", "sub_regra": "2 Emu", "emoji": "💻" },
+                    { "label": "3 Emu", "sub_regra": "3 Emu", "emoji": "💻" }
+                ]
+            }
+
+        },
+        "emulador": {
+            "1x1": { 
+                "titulo_base": "1X1 EMULADOR", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "Gelo Normal", "sub_regra": "gelo_normal", "emoji": "🧊" },
+                    { "label": "Gelo Infinito", "sub_regra": "gelo_infinito", "emoji": "🧊" }
+                ]
+            },
+            "2x2": { 
+                "titulo_base": "2X2 EMULADOR", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "Normal", "sub_regra": "normal", "emoji": "✅" },
+                    { "label": "Full Ump Xm8", "sub_regra": "full_ump_xm8", "emoji": "🔫" }
+                ]
+            },
+            "3x3": { 
+                "titulo_base": "3X3 EMULADOR", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "Normal", "sub_regra": "normal", "emoji": "✅" },
+                    { "label": "Full Ump Xm8", "sub_regra": "full_ump_xm8", "emoji": "🔫" }
+                ]
+            },
+            "4x4": { 
+                "titulo_base": "4X4 EMULADOR", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "Normal", "sub_regra": "normal", "emoji": "✅" },
+                    { "label": "Full Ump Xm8", "sub_regra": "full_ump_xm8", "emoji": "🔫" }
+                ]
+            },
+            "5x5": { 
+                "titulo_base": "5X5 EMULADOR", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "Normal", "sub_regra": "normal", "emoji": "✅" },
+                    { "label": "Full Ump Xm8", "sub_regra": "full_ump_xm8", "emoji": "🔫" }
+                ]
+            },
+            "6x6": { 
+                "titulo_base": "6X6 EMULADOR", 
+                "limite_jogadores": 2,
+                "botoes": [
+                    { "label": "Normal", "sub_regra": "normal", "emoji": "✅" },
+                    { "label": "Full Ump Xm8", "sub_regra": "full_ump_xm8", "emoji": "🔫" }
+                ]
+            }
+        }
+    },
+    "opcoes_preco_padrao": [
+{
+            "valor": 100.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO(R$ 100,00)",
+            "descricao": "Modo Gelo Normal | Sem apostas em dinheiro.\n\nValor da Aposta: **R$ 100,00**\n\n⚡ *Clique no botão abaixo para entrar na fila gratuita!*",
+            "cor": "3B82F6"
+        },
+        {
+            "valor": 50.00,
+            "sub_regra": "gelo_infinito",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 50,00)",
+            "descricao": "Modo Gelo Infinito | Disputa rápida.\n\nValor da Aposta: **R$ 50,00**\n\n⚡ *Clique no botão abaixo para entrar na fila!*",
+            "cor": "8B5CF6"
+        },
+        {
+            "valor": 25.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 25,00)",
+            "descricao": "Modo Gelo Normal | Disputa rápida.\n\nValor da Aposta: **R$ 25,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "10B981"
+        },
+        {
+            "valor": 20.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 20,00)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 20,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 15.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 15,00)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 15,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 12.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 12,00)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 12,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 10.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 10,00)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 10,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 9.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 9,00)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 9,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 8.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 8,00)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 8,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 7.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 7,00)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 7,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 6.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 6,00)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 6,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 5.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 5,00)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 5,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 4.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 4,00)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 4,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 3.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 3,00)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 3,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 2.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 2,00)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 2,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 1.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 1,00)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 1,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 0.80,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 0,80)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 0,80**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 0.55,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 0,55)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 0,55**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 0.40,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 0,40)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 0,40**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        },
+        {
+            "valor": 0.00,
+            "sub_regra": "gelo_normal",
+            "titulo": "— GELO NORMAL | GELO INFINITO (R$ 0,00)",
+            "descricao": "Modo Gelo Normal | Disputa equilibrada.\n\nValor da Aposta: **R$ 0,00**\n\n⚡ *Sala gerada automaticamente ao fechar a fila.*",
+            "cor": "F59E0B"
+        }
+    ]
+}

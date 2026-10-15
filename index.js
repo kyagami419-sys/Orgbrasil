@@ -131,9 +131,10 @@ client.on('interactionCreate', async (interaction) => {
     }
 });
 
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-    console.log(`[WEB] Servidor web / API a correr na porta ${PORT}`);
+const PORT = 8080;
+
+app.listen(PORT, '0.0.0.0', () => {
+    console.log(`[WEB] Servidor web / API rodando em http://0.0.0.0:${PORT}`);
 });
 
 client.login(process.env.DISCORD_TOKEN);
